@@ -1033,7 +1033,7 @@ export const CohortProjects = (): JSX.Element => {
       <ProjectSection
         label="AI Marketplace"
         title="Explore More"
-        sub="Browse every tool built by our community discover, use, and get inspired"
+        sub="Browse every tool built by our community. Discover, use, and get inspired"
         projects={allProjects}
         sectionKey="cohort8"
         loading={loading}
